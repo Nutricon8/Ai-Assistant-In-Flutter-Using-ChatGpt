@@ -1,7 +1,7 @@
 name: ai_assistant
-description: An AI Assistant (ChatBot, Image Generator & Language Translator) App Based on ChatGPT developed by Harsh H. Rajpurohit 
+description: An AI Assistant (ChatBot, Image Generator & Language Translator) App Based on ChatGPT developed by Harsh H. Rajpurohit
 
-publish_to: 'none' 
+publish_to: 'none'
 
 # App Version
 version: 1.0.2+2
@@ -14,9 +14,9 @@ dependencies:
   flutter:
     sdk: flutter
 
-  # App Write Database (For dynamically getting API Key)  
+  # App Write Database (For dynamically getting API Key)
   appwrite: ^12.0.4
-  # appwrite: 
+  # appwrite:
   #   path: ./appwrite
 
   # iOS Styled Icons
